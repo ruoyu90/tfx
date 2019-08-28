@@ -4,7 +4,7 @@ Status        | Proposed
 :------------ | :--------------------------------------------
 **Author(s)** | Ruoyu Liu (ruoyu@google.com)
 **Sponsor**   | Konstantinos Katsiapis (katsiapis@google.com)
-**Updated**   | 2019-08-06
+**Updated**   | 2019-08-28
 
 ## Objective
 
